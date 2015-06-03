@@ -8,7 +8,7 @@
 * [Android Template Project - Eugen Martinov](android_template_project_-_eugen_martinov.md)
 * Put Your Acitivity on a Diet - Soundcloud/Gillaume Pedro
 * Efficiency (without dying while trying) - Sergio
-* Keystore - Patrick Dorn/Sarah Will
+* [Keystore - Patrick Dorn/Sarah Will](keystore_-_patrick_dornsarah_will.md)
 * Is Your App Hackable - Kate Marshall
 * [Intro to Android Auto - Thomas Krüger](intro_to_android_auto_-_thomas_kruger.md)
 * [Cool Apps In The Car - Ebrahim/Andreas H.](cool_apps_in_the_car_-_ebrahimandreas_h.md)
