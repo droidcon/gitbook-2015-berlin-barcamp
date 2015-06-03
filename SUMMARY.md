@@ -1,5 +1,5 @@
 # Summary
 
-* [introduction](README.md)
-* Schedule
+* [Introduction](README.md)
+* [Schedule](schedule.md)
 
