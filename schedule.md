@@ -3,7 +3,7 @@
 Time | Stage 1 | Stage 2 | Stage 3 | Workshop
 -----|--------|---------|---------|---------|---------
 10:00  | Welcome and Session Planing - [GDG? Never heard of it](gdg_never_heard_of_it_-_stefan_hoth.html) | | |
-11:00  | [Retro Lambda](retro_lambda_-_daniel_bauer) | [Reactive API](reactive_api_-_marcel_pinto) | [Android Template Project](android_template_project_-_eugen_martinov) | UX HACKATHON: PAPER PROTOTYPING (1h)
+11:00  | [Retro Lambda](retro_lambda_-_daniel_bauer) | [Reactive API](reactive_api_-_marcel_pinto) | [Android Template Project](android_template_project_-_eugen_martynov) | UX HACKATHON: PAPER PROTOTYPING (1h)
 11:30  |                        | | | 
 12:00  | [Put your Activity on a Diet](put_your_acitivity_on_a_diet_-_soundcloudgillaume_pedro) | [Efficiency (without dying while trying)](efficiency_without_dying_while_trying_-_sergio) | [Keystore](keystore_-_patrick_dornsarah_will) | BEYOND REALITY - EPSON MOVERIO/UNITY3D (1h) 
 12:30  |                        | | | 
