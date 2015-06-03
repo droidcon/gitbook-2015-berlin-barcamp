@@ -8,4 +8,5 @@
 * [Android Template Project - Eugen Martinov](android_template_project_-_eugen_martinov.md)
 * Put Your Acitivity on a Diet - Soundcloud/Gillaume Pedro
 * Efficiency (without dying while trying) - Sergio
+* Keystore - Patrick Dorn/Sarah Will
 
