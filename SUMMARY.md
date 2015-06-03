@@ -9,7 +9,7 @@
 * [Put Your Acitivity on a Diet - Soundcloud/Gillaume Pedro](put_your_acitivity_on_a_diet_-_soundcloudgillaume_pedro.md)
 * [Efficiency (without dying while trying) - Sergio](efficiency_without_dying_while_trying_-_sergio.md)
 * [Keystore - Patrick Dorn/Sarah Will](keystore_-_patrick_dornsarah_will.md)
-* Is Your App Hackable - Kate Marshall
+* [Is Your App Hackable - Kate Marshall](is_your_app_hackable_-_kate_marshall.md)
 * [Intro to Android Auto - Thomas Krüger](intro_to_android_auto_-_thomas_kruger.md)
 * [Cool Apps In The Car - Ebrahim/Andreas H.](cool_apps_in_the_car_-_ebrahimandreas_h.md)
 
