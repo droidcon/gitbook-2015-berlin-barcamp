@@ -2,8 +2,8 @@
 
 Time | Stage 1 | Stage 2 | Stage 3 | Workshop
 -----|--------|---------|---------|---------|---------
-10:00  | Welcome and Session Planing | | |
-11:00  | GDG? Never heard of it | | | UX HACKATHON: PAPER PROTOTYPING (1h)
+10:00  | Welcome and Session Planing - GDG? Never heard of it | | |
+11:00  |  | | | UX HACKATHON: PAPER PROTOTYPING (1h)
 11:30  |                        | | | 
 12:00  |                        | | | BEYOND REALITY - EPSON MOVERIO/UNITY3D (1h) 
 12:30  |                        | | | 
