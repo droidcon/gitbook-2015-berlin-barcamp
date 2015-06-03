@@ -13,7 +13,7 @@
 * [Intro to Android Auto - Thomas Krüger](intro_to_android_auto_-_thomas_kruger.md)
 * [Cool Apps In The Car - Ebrahim/Andreas H.](cool_apps_in_the_car_-_ebrahimandreas_h.md)
 * [Testing Android Apps and Games Using Image Recognition - Robert Seege](testing_android_apps_and_games_using_image_recognition_-_robert_seege.md)
-* Android Data Binding - Christopher Schott / Florian Fetzer
+* [Android Data Binding - Christopher Schott / Florian Fetzer](android_data_binding_-_christopher_schott__florian_fetzer.md)
 * How to detect Your App is being uninstalled - Alek Rudy
 * Unholy Alliance: Cross-Plattform Dev - Jerney Nracs
 * Bring Your App on Every Desk - Tim
