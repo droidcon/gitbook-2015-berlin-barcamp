@@ -9,20 +9,20 @@
                 "label": "Edit This Page"
             },
         "autocover" : {
-    "title": "My Book",
-    "author": "Author",
-    "font": {
-        "size": null,
-        "family": "Impact",
-        "color": "#FFF"
-    },
-    "size": {
-        "w": 1800,
-        "h": 2360
-    },
-    "background": {
-        "color": "#09F"
-    }
-}
+            "title": "Droidcon Berlin 2015 - Barcamp",
+            "author": "Droidcon Community",
+            "font": {
+                "size": null,
+                "family": "Impact",
+                "color": "#88c540"
+            },
+            "size": {
+                "w": 1800,
+                "h": 2360
+            },
+            "background": {
+                "color": "#000"
+            }
+        }
     }
 }
