@@ -17,5 +17,5 @@
 * [How to detect Your App is being uninstalled - Alek Rudy](how_to_detect_your_app_is_being_uninstalled_-_alek_rudy.md)
 * [Unholy Alliance: Cross-Plattform Dev - Jerney Nracs](unholy_alliance_cross-plattform_dev_-_jerney_nracs.md)
 * Bring Your App on Every Desk - Tim
-* Embracing Lollipop - Sonia Kesic
+* [Embracing Lollipop - Sonia Kesic](embracing_lollipop_-_sonia_kesic.md)
 
