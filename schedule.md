@@ -11,7 +11,7 @@ Time | Stage 1 | Stage 2 | Stage 3 | Stage 4 | Workshop
 13:30  |                        | | | | 
 14:00  |                        | | | | CUSTOM LINT RULES - IMPROVE YOUR CODE QUALITY WITH DEDICATED CONVENTIONS (1h)
 14:30  |                        | | | | 
-15:00  |                        | | | | HACKING IN THE MATERIAL WORLD (1h)
+15:00  | COFFEE BREAK                        | | | | HACKING IN THE MATERIAL WORLD (1h)
 15:30  |                        | | | | 
 16:00  |                        | | | | GETTING STARTED IN VR (1h)
 16:30  |                        | | | | 
