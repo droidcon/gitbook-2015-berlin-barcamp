@@ -14,10 +14,10 @@
 * [Bring Your App on Every Desk - Tim](bring_your_app_on_every_desk_-_tim.md)
 * [Intro to Android Auto - Thomas Krüger](intro_to_android_auto_-_thomas_kruger.md)
 * [Cool Apps In The Car - Ebrahim/Andreas H.](cool_apps_in_the_car_-_ebrahimandreas_h.md)
-* [Embracing Lollipop - Sonia Kesic](embracing_lollipop_-_sonia_kesic.md)
 * [What was at Google I/O? - Friedger Müffke](what_was_at_google_io_-_friedger_muffke.md)
 * [How to detect Your App is being uninstalled - Alek Rudy](how_to_detect_your_app_is_being_uninstalled_-_alek_rudy.md)
 * [Testing Android Apps and Games Using Image Recognition - Robert Seege](testing_android_apps_and_games_using_image_recognition_-_robert_seege.md)
 * [Unholy Alliance: Cross-Plattform Dev - Jerney Nracs](unholy_alliance_cross-plattform_dev_-_jerney_nracs.md)
+* [Embracing Lollipop - Sonia Kesic](embracing_lollipop_-_sonia_kesic.md)
 * What was at Google I/O?
 
