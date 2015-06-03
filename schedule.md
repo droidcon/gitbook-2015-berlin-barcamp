@@ -11,7 +11,7 @@ Time | Stage 1 | Stage 2 | Stage 3 | Workshop
 13:30  |                        | |  | 
 14:00  | [Is Your App Hackable](is_your_app_hackable_-_kate_marshall) | [Android Data Binding](android_data_binding_-_christopher_schott__florian_fetzer) | [Bring your App on every Desk](bring_your_app_on_every_desk_-_tim) | CUSTOM LINT RULES - IMPROVE YOUR CODE QUALITY WITH DEDICATED CONVENTIONS (1h)
 14:30  |                        | |  | 
-15:00  | [Intro to Android Auto](introy_to_android_auto_-_thomas_kruger)                        | [How to detect your App is being uninstalled](how_to_detect_your_app_is_being_uninstalled_-_alek_rudy)  |  | HACKING IN THE MATERIAL WORLD (1h)
+15:00  | [Intro to Android Auto](introy_to_android_auto_-_thomas_kruger)                        | [How to detect your App is being uninstalled](how_to_detect_your_app_is_being_uninstalled_-_alek_rudy)  | [What was a Google I/O?](what_was_at_google_io_-_friedger_mueffke) | HACKING IN THE MATERIAL WORLD (1h)
 15:30  | [Cool Apps in the Car](cool_apps_in_the_car_-_ebrahimandreas_h)                       | |  | 
 16:00  | [Testing Android apps and games unsing Image Recognition](testing_android_apps_and_games_using_image_recognition_-_robert_seege) | [Unholy Alliance: Cross-Plattform Dev](unholy_alliance_cross-plattform_dev_-_jerney_nracs) | [Embracing The Lollipop](embracing_lollipop_-_sonia_kesic)  | GETTING STARTED IN VR (1h)
 16:30  |                        | |  | 
