@@ -9,4 +9,5 @@
 * Put Your Acitivity on a Diet - Soundcloud/Gillaume Pedro
 * Efficiency (without dying while trying) - Sergio
 * Keystore - Patrick Dorn/Sarah Will
+* Is Your App Hackable - Kate Marshall
 
