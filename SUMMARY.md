@@ -10,5 +10,5 @@
 * Efficiency (without dying while trying) - Sergio
 * Keystore - Patrick Dorn/Sarah Will
 * Is Your App Hackable - Kate Marshall
-* Intro to Android Auto - Thomas Krüger
+* [Intro to Android Auto - Thomas Krüger](intro_to_android_auto_-_thomas_kruger.md)
 
