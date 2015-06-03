@@ -2,5 +2,10 @@
     "plugins": [
         "edit-link"
     ],
-    "pluginsConfig": {}
+    "pluginsConfig": {
+        "edit-link": {
+                "base": "https://github.com/droidcon/gitbook-2015-berlin-barcamp/edit/master/",
+                "label": "Edit This Page"
+            }
+    }
 }
