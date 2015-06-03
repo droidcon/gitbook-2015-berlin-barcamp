@@ -15,7 +15,7 @@
 * [Testing Android Apps and Games Using Image Recognition - Robert Seege](testing_android_apps_and_games_using_image_recognition_-_robert_seege.md)
 * [Android Data Binding - Christopher Schott / Florian Fetzer](android_data_binding_-_christopher_schott__florian_fetzer.md)
 * How to detect Your App is being uninstalled - Alek Rudy
-* Unholy Alliance: Cross-Plattform Dev - Jerney Nracs
+* [Unholy Alliance: Cross-Plattform Dev - Jerney Nracs](unholy_alliance_cross-plattform_dev_-_jerney_nracs.md)
 * Bring Your App on Every Desk - Tim
 * Embracing Lollipop - Sonia Kesic
 
