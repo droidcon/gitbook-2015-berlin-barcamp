@@ -14,4 +14,5 @@
 * [Cool Apps In The Car - Ebrahim/Andreas H.](cool_apps_in_the_car_-_ebrahimandreas_h.md)
 * [Testing Android Apps and Games Using Image Recognition - Robert Seege](testing_android_apps_and_games_using_image_recognition_-_robert_seege.md)
 * Android Data Binding - Christopher Schott / Florian Fetzer
+* How to detect Your App is being uninstalled - Alek Rudy
 
