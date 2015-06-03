@@ -1,11 +1,28 @@
 {
     "plugins": [
-        "edit-link"
+        "edit-link",
+        "autocover"
     ],
     "pluginsConfig": {
         "edit-link": {
                 "base": "https://github.com/droidcon/gitbook-2015-berlin-barcamp/edit/master/",
                 "label": "Edit This Page"
-            }
+            },
+        "autocover" : {
+    "title": "My Book",
+    "author": "Author",
+    "font": {
+        "size": null,
+        "family": "Impact",
+        "color": "#FFF"
+    },
+    "size": {
+        "w": 1800,
+        "h": 2360
+    },
+    "background": {
+        "color": "#09F"
+    }
+}
     }
 }
