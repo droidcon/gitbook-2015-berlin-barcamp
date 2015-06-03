@@ -6,7 +6,7 @@
 * [Retro Lambda - Daniel Bauer](retro_lambda_-_daniel_bauer.md)
 * [Reactive API - Marcel Pintó](reactive_api_-_marcel_pinto.md)
 * [Android Template Project - Eugen Martinov](android_template_project_-_eugen_martinov.md)
-* Put Your Acitivity on a Diet - Soundcloud/Gillaume Pedro
+* [Put Your Acitivity on a Diet - Soundcloud/Gillaume Pedro](put_your_acitivity_on_a_diet_-_soundcloudgillaume_pedro.md)
 * Efficiency (without dying while trying) - Sergio
 * [Keystore - Patrick Dorn/Sarah Will](keystore_-_patrick_dornsarah_will.md)
 * Is Your App Hackable - Kate Marshall
