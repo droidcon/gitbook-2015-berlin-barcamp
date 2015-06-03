@@ -19,5 +19,4 @@
 * [Testing Android Apps and Games Using Image Recognition - Robert Seege](testing_android_apps_and_games_using_image_recognition_-_robert_seege.md)
 * [Unholy Alliance: Cross-Plattform Dev - Jerney Nracs](unholy_alliance_cross-plattform_dev_-_jerney_nracs.md)
 * [Embracing Lollipop - Sonia Kesic](embracing_lollipop_-_sonia_kesic.md)
-* What was at Google I/O?
 
