@@ -1,3 +1,5 @@
+# Retro Lambda - Daniel Bauer
+
 Link to slides: http://slidr.io/dbau85/barcamp-talk-about-retrolambda-on-droidcon-berlin-2015#1
 
 <b>Questions</b>
