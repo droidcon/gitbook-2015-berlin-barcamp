@@ -65,6 +65,7 @@ Code also holds our pattern for our logic separation (Presenter, View, ModelView
  
 ## Where can I get it
 It is not public right now but should be soon. Please drop me email and I will update you.
+(available now at https://github.com/emartynov/android-template-project)
 
 ###Contact
  * @jack_martynov
