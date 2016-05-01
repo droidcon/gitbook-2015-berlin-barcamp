@@ -20,4 +20,5 @@
 * [Unholy Alliance: Cross-Plattform Dev - Jerney Nracs](unholy_alliance_cross-plattform_dev_-_jerney_nracs.md)
 * [Embracing Lollipop - Sonia Kesic](embracing_lollipop_-_sonia_kesic.md)
 * [Feedback](feedback.md)
+* Custom Lint Rules
 
