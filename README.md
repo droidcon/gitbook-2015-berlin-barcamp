@@ -1,5 +1,5 @@
 
-![](http://droidcon.de/sites/droidcon.de/files/141228_droidcon_logoschrift.png)
+![](http://droidcon.com/wp-content/uploads/2015/01/141228_droidcon_logoschrift.png)
 
 The first day of Droidcon Berlin is traditionally a [barcamp](http://barcamp.org).
 
