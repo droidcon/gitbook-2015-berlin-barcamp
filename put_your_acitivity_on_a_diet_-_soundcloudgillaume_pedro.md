@@ -2,4 +2,4 @@
 
 The session is about ensure a strong contract for the activity life cycle.
 
-Slides: https://www.dropbox.com/s/b565cw1r2o4xzu5/Lightcycle%20-%20DroidCon%20Barcamp.pdf?dl=0
+Slides: https://speakerdeck.com/lungos/put-your-activity-on-a-diet
